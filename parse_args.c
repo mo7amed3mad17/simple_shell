@@ -1,4 +1,4 @@
-#include "main.h"
+#include "shell.h"
 /**
   * parse_args - Function that take the read line and tokenize it to parts
   * @read: The read line from standard input

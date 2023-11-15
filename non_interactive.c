@@ -1,4 +1,4 @@
-#include "main.h"
+#include "shell.h"
 /**
   * non_interactive - work when isatty =! 0
   * @argc: count

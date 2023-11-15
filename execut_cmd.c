@@ -1,4 +1,4 @@
-#include "main.h"
+#include "shell.h"
 /**
   * execute_cmd - The function that execute the command if it first
   * executable and exist in PATH

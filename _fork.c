@@ -1,4 +1,4 @@
-#include "main.h"
+#include "shell.h"
 /**
   * _fork - Function that creat new proccess
   * @parsed: Array of arguments

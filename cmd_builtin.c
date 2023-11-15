@@ -1,4 +1,4 @@
-#include "main.h"
+#include "shell.h"
 /**
   * cmd_builtin - Function that check if the command is builtin and execute it
   * @parsed: The Array of aruments

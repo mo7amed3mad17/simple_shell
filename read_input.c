@@ -1,4 +1,4 @@
-#include "main.h"
+#include "shell.h"
 /**
   * read_input - Function that read the input from user
   * Return: A string

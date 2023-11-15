@@ -1,4 +1,4 @@
-#include "main.h"
+#include "shell.h"
 /**
   * c_builtin - check if builtin
   * @parsed: input

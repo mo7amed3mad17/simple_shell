@@ -1,4 +1,4 @@
-#include "main.h"
+#include "shell.h"
 
 /**
   * signl - Function that suspend or terminate program

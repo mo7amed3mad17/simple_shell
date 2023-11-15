@@ -1,4 +1,4 @@
-#include "main.h"
+#include "shell.h"
 /**
  *   *_strlen - The used func
  *     *@str: input
