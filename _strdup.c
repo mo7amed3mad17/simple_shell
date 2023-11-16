@@ -1,10 +1,9 @@
 #include "shell.h"
-
 /**
- *   * _strdup - function that duplicate string
- *     * @str: input str
- *       * Return: char*
- *        */
+ * _strdup - function that duplicate string
+ * @str: input str
+ * Return: char*
+*/
 char *_strdup(char *str)
 {
 	int len;
