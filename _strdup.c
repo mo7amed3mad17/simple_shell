@@ -1,4 +1,5 @@
 #include "shell.h"
+
 /**
  * _strdup - function that duplicate string
  * @str: input str
