@@ -1,11 +1,15 @@
+<<<<<<< HEAD
 #include "main.h"
 
+=======
+#include "shell.h"
+>>>>>>> 728d4da6d78fab980d19acb004e62acec47b4e9a
 /**
- *  * _strcat - concatenates two strings
- *   * @dest: input value
- *    * @src: input value
- *     * Return: void
- *      */
+ * _strcat - concatenates two strings
+ * @dest: input value
+ * @src: input value
+ * Return: void
+*/
 char *_strcat(char *dest, char *src)
 {
 	int i;
